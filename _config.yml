@@ -6,7 +6,7 @@ description: Welcome to my personal website~
 avatarTitle: Yi Qin
 # 头像里面的描述
 avatarDesc: Machine Learning
-url: "https://chendingliang.github.io"
+url: "https://QinYi-team.github.io"
 
 # Comment
 comment:
@@ -16,13 +16,13 @@ comment:
 
 # Social
 social:
-    QQ: 1103455018
-    github: chendingliang
+    #QQ:
+    github: QinYi-team
     # zhihu: panpanleopard
     # juejin: xxx
     #ianshu: 2ada30d8d0f7
     # twitter:
-    mail: 1103455018@qq.com
+    mail: qy_808@aliyun.com
 
 
 # 百度统计
