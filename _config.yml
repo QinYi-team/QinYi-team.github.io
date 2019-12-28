@@ -57,7 +57,7 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Paper, description: archive, url: '/archive'}
+    - {title: Paper and code, description: archive, url: '/archive'}
     - {title: Tag, description: tags, url: '/tags'}
     - {title: About Me, description: about, url: '/about'}
 
