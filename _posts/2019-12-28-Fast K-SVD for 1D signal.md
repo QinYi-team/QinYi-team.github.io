@@ -4,4 +4,4 @@ To detect the incipient faults of rotating parts used in electromechanical syste
 
 For the detail, please see: Yi Qin*, Jingqiang Zou, Baoping Tang, Yi Wang, Haizhou Chen. Transient feature extraction by the improved orthogonal matching pursuit and K-SVD algorithm with adaptive transient dictionary, IEEE Transactions on Industrial Informatics, 2019, DOI 10.1109/TII.2019.2909305.
 
-[code](https://github.com/QinYi-team/codes)
+[Code Download]([https://github.com/QinYi-team/codes/tree/master/Fast%20K-SVD%20for%201D%20signal](https://github.com/QinYi-team/codes/tree/master/Fast K-SVD for 1D signal))

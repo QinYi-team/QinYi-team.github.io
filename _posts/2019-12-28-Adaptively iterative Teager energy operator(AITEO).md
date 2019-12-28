@@ -4,4 +4,4 @@ Multicomponent AM-FM demodulation is an important tool in many engineering appli
 
 For the detail, please see: Yi Qin. Multicomponent AM–FM demodulation based on energy separation and adaptive filtering. Mechanical Systems and Signal Processing, 2013, 38(2): 440-459.
 
-[code](https://github.com/QinYi-team/codes)
+[Code Download]([https://github.com/QinYi-team/codes/tree/master/Adaptively%20iterative%20Teager%20energy%20operator(AITEO)](https://github.com/QinYi-team/codes/tree/master/Adaptively iterative Teager energy operator(AITEO))

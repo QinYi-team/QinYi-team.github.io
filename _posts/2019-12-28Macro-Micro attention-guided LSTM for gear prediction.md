@@ -4,4 +4,4 @@ In the mechanical transmission system, the gear is one of the most widely used t
 
 For the detail, please see: Yi Qin, Sheng Xiang, Yi Chai, Haizhou Chen. Macroscopic-microscopic attention in LSTM networks based on fusion features for gear remaining life prediction. IEEE Transactions on Industrial Electronics, 2020, DOI 10.1109/TIE.2019.2959492
 
-[code](https://github.com/QinYi-team/codes)
+[Code Download]([https://github.com/QinYi-team/codes/tree/master/Macro-Micro%20attention-guided%20LSTM%20for%20gear%20prediction](https://github.com/QinYi-team/codes/tree/master/Macro-Micro attention-guided LSTM for gear prediction))

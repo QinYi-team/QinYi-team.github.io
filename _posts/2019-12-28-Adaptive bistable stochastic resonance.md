@@ -4,4 +4,5 @@ Stochastic resonance (SR) is an important approach to detect weak vibration sign
 
 For the detail, please see: Yi Qin, Yi Tao, Ye He, Baoping Tang. Adaptive bistable stochastic resonance and its application in mechanical fault feature extraction. Journal of Sound and Vibration, 2014, 333(26): 7386-7400.
 
-[code](https://github.com/QinYi-team/codes)
+[Code Download]([https://github.com/QinYi-team/codes/tree/master/Adaptive%20bistable%20stochastic%20resonance](https://github.com/QinYi-team/codes/tree/master/Adaptive bistable stochastic resonance))
+
