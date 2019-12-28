@@ -4,4 +4,4 @@ The localized faults of rolling bearings can be diagnosed by the extraction of t
 
 For the detail, please see: Yi Qin. A new family of model-based impulsive wavelets and their sparse representation for rolling bearing fault diagnosis. IEEE Transactions on Industrial Electronics, 2018, 65(3): 2716-2726.
 
-[Code Download]([https://github.com/QinYi-team/codes/tree/master/Model-based%20impulsive%20wavelet%20and%20its%20sparse%20representation](https://github.com/QinYi-team/codes/tree/master/Model-based impulsive wavelet and its sparse representation))
+[Code Download](https://github.com/QinYi-team/codes/tree/master/Model-based%20impulsive%20wavelet%20and%20its%20sparse%20representation)

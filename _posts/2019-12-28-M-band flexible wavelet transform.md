@@ -6,4 +6,5 @@ For the detail, please see: Yi Qin*, Yongfang Mao, Baoping Tang, Yi Wang, Haizho
 
 
 
-[Code Download]([https://github.com/QinYi-team/codes/tree/master/M-band%20flexible%20wavelet%20transform](https://github.com/QinYi-team/codes/tree/master/M-band flexible wavelet transform))
+[Code Download](https://github.com/QinYi-team/codes/tree/master/M-band%20flexible%20wavelet%20transform)
+
