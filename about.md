@@ -5,7 +5,7 @@ title: Resume
 
 Name：Yi Qin
 
-Birthday：/8/8/1982
+Birthday：08/08/1982
 
 Degree：Ph.D
 
