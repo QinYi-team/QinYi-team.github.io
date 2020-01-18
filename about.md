@@ -21,7 +21,7 @@ Yi Qin received the B.S. and Ph.D. degrees in mechatronical engineering from Cho
 
 [1]	Yi Qin∗, Sheng Xiang, Yi Chai, Haizhou Chen. Macroscopic-microscopic attention in LSTM networks based on fusion features for gear remaining life prediction. IEEE Transactions on Industrial Electronics, 2020, DOI 10.1109/TIE.2019.2959492
 
-[2]	Yi Qin*, Jingqiang Zou, Baoping Tang, Yi Wang, Haizhou Chen. Transient feature extraction by the improved orthogonal matching pursuit and K-SVD algorithm with adaptive transient dictionary, IEEE Transactions on Industrial Informatics, 2019, DOI 10.1109/TII.2019.2909305
+[2]	Yi Qin*, Jingqiang Zou, Baoping Tang, Yi Wang, Haizhou Chen. Transient feature extraction by the improved orthogonal matching pursuit and K-SVD algorithm with adaptive transient dictionary, IEEE Transactions on Industrial Informatics, 2020, 16(1): 215-227  
 
 [3]	Yi Qin*, Yongfang Mao, Baoping Tang, Yi Wang, Haizhou Chen. M-band flexible wavelet transform and its application to the fault diagnosis of planetary gear transmission systems. Mechanical Systems and Signal Processing, 2019, 134: 106298. 
 
