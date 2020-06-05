@@ -1,0 +1,7 @@
+# Gated dual attention unit (GDAU) 
+
+ In the mechatronic system, rolling bearing is a frequently-used mechanical part, and its failure may result in serious accident and major economic loss. Therefore, the remaining useful life (RUL) prediction of rolling bearing is greatly indispensable. To accurately predict the RUL of the rolling bearing, a new kind of gated recurrent unit neural network with dual attention gates, namely, gated dual attention unit (GDAU), is proposed. With the acquired life-cycle vibration data of a rolling bearing, a series of root mean squares at different time instants are calculated as the health indicator vector. Next, the to-be health indicator sequence is predicted by GDAU according to the existing health indicator vector, and then the RUL of the rolling bearing is estimated. The experimental results show that the proposed GDAU can effectively predict the RULs of rolling bearings, and it has higher prediction accuracy and convergence speed than the conventional prediction methods.  
+
+For the detail, please see:  Yi Qin, Dingliang Chen, Sheng Xiang, Caichao Zhu. Gated dual attention unit neural networks for remaining useful life prediction of rolling bearings. IEEE Transactions on Industrial Informatics, 2020, DOI 10.1109/TII.2020.2999442.  
+
+[Code Download](https://github.com/QinYi-team/Code/tree/master/ReLTanh%20DNN)
