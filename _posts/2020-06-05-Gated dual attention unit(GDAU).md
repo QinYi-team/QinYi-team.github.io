@@ -4,4 +4,4 @@
 
 For the detail, please see:  Yi Qin, Dingliang Chen, Sheng Xiang, Caichao Zhu. Gated dual attention unit neural networks for remaining useful life prediction of rolling bearings. IEEE Transactions on Industrial Informatics, 2020, DOI 10.1109/TII.2020.2999442.  
 
-[Code Download]( [https://github.com/QinYi-team/Code/tree/master/Gated%20dual%20attention%20unit%20(GDAU)](https://github.com/QinYi-team/Code/tree/master/Gated dual attention unit (GDAU)) 
+[Code Download](https://github.com/QinYi-team/Code/tree/master/Gated%20dual%20attention%20unit%20(GDAU)) 
