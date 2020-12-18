@@ -4,4 +4,4 @@ Domain adaption models are widely applied to fault transfer diagnosis. However, 
 
 For the detail, please see:  Yi Qin, Xin Wang, Quan Qian, Huayan Pu, Jun Luo.         Multi-scale transfer voting mechanism: a new strategy for domain adaption. IEEE Transactions on Industrial Informatics, 2020, in press.  
 
-[Code Download](https://github.com/QinYi-team/Code/tree/master/) 
+[Code Download](https://github.com/QinYi-team/Code/tree/master/MSTVM) 
