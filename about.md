@@ -25,11 +25,11 @@ Yi Qin received the B.S. and Ph.D. degrees in mechatronical engineering from Cho
 
 [3]   Jianghong Zhou, Yi Qin*, Jun Luo, Tao Zhu. Remaining useful life prediction by distribution contact ratio health indicator and consolidated memory GRU. IEEE Transactions on Industrial Informatics, 2022, DOI 10.1109/TII.2022.3218665
 
-[4]  Yi Qin*, Quan Qian*****, Yi Wang, Jianghong Zhou. Intermediate distribution alignment and its application into mechanical fault transfer diagnosis. IEEE Transactions on Industrial Informatics, 2022, 18(10): 7305-7315.
+[4]  Yi Qin*, Quan Qian**, Yi Wang, Jianghong Zhou. Intermediate distribution alignment and its application into mechanical fault transfer diagnosis. IEEE Transactions on Industrial Informatics, 2022, 18(10): 7305-7315.
 
 [5]   Sheng Xiang, Yi Qin*, Jun Luo, Huayan Pu. Spatiotemporally multi-differential processing deep neural network and its application to equipment remaining useful life prediction. IEEE Transactions on Industrial Informatics, 2022, 18(10): 7230-7239.
 
-[6]   Yangyang Wang, Yi Qin*, Xihou Chen*****, Qifu Tang, Tianheng Zhang, Liang Wu. Absolute inductive angular displacement sensor for position detection of YRT turntable bearing. IEEE Transactions on Industrial Electronics, 2022, 69(10): 10644-10655.
+[6]   Yangyang Wang, Yi Qin*, Xihou Chen**, Qifu Tang, Tianheng Zhang, Liang Wu. Absolute inductive angular displacement sensor for position detection of YRT turntable bearing. IEEE Transactions on Industrial Electronics, 2022, 69(10): 10644-10655.
 
 [7]   Yi Qin*, Xingguo Wu, Jun Luo. Data-model combined driven digital twin of life-cycle rolling bearing. IEEE Transactions on Industrial Informatics, 2022, 18(3): 1530-1540.
 
