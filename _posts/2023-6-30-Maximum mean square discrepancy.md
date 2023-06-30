@@ -1,0 +1,9 @@
+# Maximum mean square discrepancy
+
+Discrepancy representation metric completely determines the transfer diagnosis performance of deep domain adaptation methods. Maximum mean discrepancy (MMD) based on the mean statistic, as the commonly used metric, has poor discrepancy representation in some cases. MMD is generally known from the aspect of kernel function, but the inherent relationship between the two is unknown. To deal with these issues, the authors theoretically explore their relationship first. With the revealed relationship, a novel discrepancy representation metric named maximum mean square discrepancy (MMSD), which can comprehensively reflect the mean and variance information of data samples in the reproducing kernel Hilbert space, is constructed for enhancing domain confusion. Additionally, for the real application under limited samples and ensuring the effectiveness of MMSD, biased and unbiased empirical MMSD statistics are developed, and the error bounds between the two empirical statistics and the real distribution discrepancy are derived. The proposed MMSD is successfully applied to the end-to-end fault diagnosis of planetary gearbox of wind turbine without labeled target-domain samples. The experimental results on twelve cross-load transfer tasks validate that MMSD has a better ability of discrepancy representation and a higher diagnosis accuracy compared with other well-known discrepancy representation metrics.
+
+ 
+
+For the detail, please see: Quan Qian, Yi Wang, Taisheng Zhang, Yi Qin. Maximum mean square discrepancy: a new discrepancy representation metric for mechanical fault transfer diagnosis, Knowledge-Based Systems, 2023. 
+
+[Code Download](https://github.com/QinYi-team/Code/tree/master/Deep%20discriminative%20transfer%20learning%20network%20(DDTLN)) 
