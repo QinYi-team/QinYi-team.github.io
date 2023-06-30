@@ -6,4 +6,4 @@ Discrepancy representation metric completely determines the transfer diagnosis p
 
 For the detail, please see: Quan Qian, Yi Wang, Taisheng Zhang, Yi Qin. Maximum mean square discrepancy: a new discrepancy representation metric for mechanical fault transfer diagnosis, Knowledge-Based Systems, 2023. 
 
-[Code Download](https://github.com/QinYi-team/Code/tree/master/Deep%20discriminative%20transfer%20learning%20network%20(DDTLN)) 
+[Code Download](https://github.com/QinYi-team/MMSD) 
