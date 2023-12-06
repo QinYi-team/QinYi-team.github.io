@@ -2,7 +2,7 @@ We have performed gear fatigue test by the gear contact fatigue test rig produce
 
 The detail can be seen in Dynamic weighted federated remaining useful life prediction approach for rotating machinery. Mechanical Systems and Signal Processing, 2023, 202: 110688. 
 
-![](https://github.com/QinYi-team/Image/blob/master/gear%20test%20rig%201.png)
+![]([https://github.com/QinYi-team/Image/blob/master/gear%20test%20rig%201.png](https://github.com/QinYi-team/Image/blob/master/new%20gear%20test%20rig.png))
 
 
 
