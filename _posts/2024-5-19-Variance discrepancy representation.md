@@ -1,0 +1,9 @@
+# Variance discrepancy representation
+
+Plenty of maximum mean discrepancy (MMD)-based domain adaptation models have been applied to the fault transfer diagnosis. MMD uses the mean statistic in Hilbert space to measure the distribution discrepancy, whereas it cannot precisely reflect the distribution relationship in some cases. Meanwhile, the working mechanism of MMD needs to be further investigated. To this end, a novel insight into MMD is provided, and its working principle from the perspective of space mapping is theoretically explored. A vibration characteristic-guided distribution alignment metric called variance discrepancy representation (VDR) that can express variance information is proposed to enhance the discrepancy representation ability. The biased and unbiased empirical VDR statistics are developed, and the error bounds between the two statistics and the real distribution discrepancy are derived to ensure the reliability of VDR. Furthermore, a new Student kernel is designed to guarantee the robustness and generalization ability of VDR. Ultimately, the VDR with Student kernel-based fault diagnosis model is constructed. The experimental results on three bearing datasets and the actual vibration signals of wind turbine gearbox show that the proposed method is superior to the typical and advanced fault transfer diagnosis methods, especially the proposed VDR outperforms the current distribution alignment metrics.
+
+ 
+
+For the detail, please see: Quan Qian, Huayan Pu, Tianjia Tu, Yi Qin. Variance discrepancy representation: a vibration characteristic-guided distribution alignment metric for fault transfer diagnosis, Mechanical Systems and Signal Processing, 2024.
+
+[Code Download](https://github.com/QinYi-team/Variance-discrepancy-representation) 
