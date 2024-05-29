@@ -1,0 +1,9 @@
+# Heterogeneous federated domain generalization network
+
+Various federated transfer learning (FTL) methods have been proposed to address domain shift and safeguard data privacy in the field of fault diagnosis. However, the effectiveness of these methods entirely relies on the presumption that the source clients must be homogenous with the target client. Meanwhile, these methods also require that the testing target-domain data are available during the communication process. Considering that target-domain data are typically unseen and heterogenous with source clients, the traditional FTL-based diagnosis methods cannot meet the demand of high data utilization rate and real-time diagnosis in real engineering. To overcome the above-mentioned issues, a novel heterogeneous federated domain generalization network (HFDGN) is proposed to fill the gap in the heterogeneous multisource federated diagnosis. In the HFDGN, the heterogeneous FTL framework is first proposed to achieve the generalized fault diagnosis of a target client by obtaining the common representation mappings from heterogeneous source clients. Additionally, the disentangled domain adaptation (DDA) base model is designed to remove the negative effect caused by noise. This model can enhance the ability of domain confusion and extract the inherent fault-relevant features. The asynchronous unbalanced update paradigm is utilized to optimize the DDA base model. Experimental results on two heterogeneous federated transfer cases prove that HFDGN outperforms other well-known and advanced diagnosis methods.
+
+ 
+
+For the detail, please see: Quan Qian, Jun Luo, and Yi Qin, “Heterogeneous federated domain generalization network with common representation learning for cross-load machinery fault diagnosis,” IEEE Transactions on Systems, Man and Cybernetics: Systems, 2024, in press.
+
+[Code Download](https://github.com/QinYi-team/HFDGN) 
