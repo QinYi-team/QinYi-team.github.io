@@ -20,5 +20,5 @@ The detail can be seen in Dynamic weighted federated remaining useful life predi
 
 [Data Download](https://pan.baidu.com/s/1hTKWWAmPgs6cb9qkpr-qig?pwd=dahx)
 
-
+[Data Download](https://pan.baidu.com/s/1v7wTJoS5csOO5FGhlp7Cfw?pwd=7j5m)
 
