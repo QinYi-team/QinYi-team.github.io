@@ -10,13 +10,13 @@ The detail can be seen in Macroscopic-microscopic attention in LSTM networks bas
 
 
 
-We have performed gear fatigue test by the gear contact fatigue test rig produced by Newcastle University, and several Life-cycle vibration data sets have been acquired. The teeth numbers of two test gears are 27 and 25 respectively.  The download link is listed below. More test data will be supplemented with the implementation of new gear tests. 
+We have performed gear fatigue test by the gear contact fatigue test rig produced by Newcastle University, and several Life-cycle vibration data sets have been acquired. The teeth numbers of gears 1 and 2 are 25 and 27 respectively.  The download link is listed below. More test data will be supplemented with the implementation of new gear tests. 
 
 The detail can be seen in Dynamic weighted federated remaining useful life prediction approach for rotating machinery. Mechanical Systems and Signal Processing, 2023, 202: 110688. 
 
 ![](https://github.com/QinYi-team/Image/raw/master/new gear test rig.png)
 
-
+![](https://github.com/QinYi-team/Image/raw/master/New gearbox structure.png)
 
 [Data Download](https://pan.baidu.com/s/1hTKWWAmPgs6cb9qkpr-qig?pwd=dahx)
 
